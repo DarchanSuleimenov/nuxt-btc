@@ -1,7 +1,7 @@
 # nuxt-btc
 
 > Демонстрационное приложение, использующее Nuxt, ElementUI, API [coinapi.io](https://www.coinapi.io), [coinmarketcap.com](https://coinmarketcap.com/)
->> увидеть приложение в работе можно [здесь](https://darchansuleimenov.github.io/nuxt-youtube/)
+>> увидеть приложение в работе можно [здесь](https://darchansuleimenov.github.io/nuxt-btc/)
 
 ## Установка
 
